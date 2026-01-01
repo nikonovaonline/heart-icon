@@ -35,6 +35,7 @@ The SVG is fully scalable and resolution-independent.
 ## 📁 Repository Structure
 
 /
+
 ├── heart.svg
 
 └── README.md
